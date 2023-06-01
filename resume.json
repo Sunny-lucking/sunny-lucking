@@ -13,54 +13,54 @@
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
+    "name": "培歌行",
     "email": "736xxxx86@qq.com",
     "mobile": "156xxxx7119",
-    "github": "https://github.com/visiky (1.1k 粉丝)",
-    "zhihu": "https://www.zhihu.com/people/visiky",
+    "github": "https://github.com/Sunny-lucking",
+    "juejin": "https://juejin.cn/user/1204720476893064",
     "workExpYear": ""
   },
   "educationList": [
     {
       "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
+        "2017.09.01",
+        "2021.06.30"
       ],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "school": "华南农业大学",
+      "major": "软件工程",
       "academic_degree": "本科"
     }
   ],
   "awardList": [
     {
-      "award_info": "英语 CET6",
-      "award_time": "2015"
+      "award_info": "英语 CET4",
+      "award_time": "2018"
     },
     {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
+      "award_info": "大家闺秀奖",
       "award_time": "2018.09"
     },
     {
-      "award_info": "前端练习生 可视化讲师",
+      "award_info": "前端练习生",
       "award_time": "2020.10"
     },
     {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
+      "award_info": "参加工作奖",
       "award_time": "2021.07"
     }
   ],
   "workExpList": [
     {
-      "company_name": "蚂蚁集团",
+      "company_name": "xx公司",
       "department_name": "体验技术部",
       "work_time": [
         "2018.06",
         null
       ],
-      "work_desc": "1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
+      "work_desc": "1. 负责公司重要活动项目的开发，负责开发与维护活动低代码可视化编辑平台、全链路日志系统和服务效能平台。 参与定制化活动的开发。参与维护脚手架、模板、UI组件库。"
     },
     {
-      "company_name": "蚂蚁金服",
+      "company_name": "xxxx",
       "department_name": "大数据部",
       "work_time": [
         "2017.06",
@@ -82,16 +82,16 @@
   "projectList": [
     {
       "project_name": "数据作战室",
-      "project_role": "前端负责人",
+      "project_role": "xxx",
       "project_time": "2019.04 - 2020.06",
       "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同的数据产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取指标进展以及决策洞察，并提升管理效率。",
       "project_content": "1. 独立负责产品从 0 到 1 的开发、产品功能迭代（在项目中具有推动项目进度的经验） 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
     },
     {
       "project_name": "DeepInsight",
-      "project_role": "可视分析负责人",
+      "project_role": "可视分析x",
       "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
-      "project_desc": "DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，主要功能包括可视化看板搭建、智能分析、数据产品建站等。看板功能类似于火山引擎、PowerBI等产品。） ",
+      "project_desc": "DeepInsight 是自主研发的自助式 BI 数据洞察分析平台，主要功能包括可视化看板搭建、智能分析、数据产品建站等。看板功能类似于火山引擎、PowerBI等产品。） ",
       "project_content": "在该项目中主要负责可视化建设以及工程治理\n1. 主导开放能力建设，拉通产品、设计建设和扩展 40+ 可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设、促进数据分析能力增强等可视化一体化建设。同时也是 AntV G2Plot 负责人，负责将可视化技术和业务相结合。"
     },
     {
